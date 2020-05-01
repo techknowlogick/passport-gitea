@@ -1,0 +1,26 @@
+{
+  "name": "passport-gitea",
+  "version": "0.0.2",
+  "description": "Gitea authentication strategy for Passport and Node.js.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "main": "./lib",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/techknowlogick/passport-gitea.git"
+  },
+  "keywords": [
+    "passport",
+    "gitea"
+  ],
+  "author": "techknowlogick <techknowlogick@gitea.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/techknowlogick/passport-gitea/issues"
+  },
+  "homepage": "https://github.com/techknowlogick/passport-gitea#readme",
+  "dependencies": {
+    "passport-oauth2": "1.x.x"
+  }
+}
