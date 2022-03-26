@@ -1,5 +1,6 @@
 {
   "name": "passport-gitea",
+  "version": "0.0.6",
   "description": "Gitea authentication strategy for Passport and Node.js.",
   "scripts": {
     "test": "echo \"Error: no test specified\""
